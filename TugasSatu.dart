@@ -1,5 +1,5 @@
 /* program: Digital Biodata Anggota Club
-Deskripsi: Program i*/
+Deskripsi: Program ini digunakan untuk menyimpan dan juga menampilkan biodata anggota club, meliputi data pribadi, daftar buku favorit, dan informasi tambahan*/
 /// Menampilkan biodata anggota club dengan menggunakan fungsi dan parameter 
 void tampilkanBiodata (
     String nama,
