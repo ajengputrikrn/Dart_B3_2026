@@ -21,7 +21,7 @@ void tampilkanBiodata (
 void main () {  
     String nama = "Windah"; // Menambahkan variabel nama
     int umur = 34; // Menambahkan variabel umur
-    double tinggi = 170; // Menambahkan variabel tinggi
+    double tinggi = 170; // Dalam satuan (cm)
     bool aktif = true; // Menambahkan variabel aktif
 
     List<String> daftarBukuFavorit = ["Little Prince", "Madilog", "Bumi"]; // Menambahkan daftar buku favorit
